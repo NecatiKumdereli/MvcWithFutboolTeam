@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\21660110053NecatiKumdereli.props" />
+</Project>
